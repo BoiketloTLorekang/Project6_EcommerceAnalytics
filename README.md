@@ -144,4 +144,4 @@ Key views implemented:
 **Boiketlo Thabang Lorekang**  
 Data Analyst | SQL • Power BI • Business Intelligence  
 
-GitHub: [https://github.com/BoiketloThabang](https://github.com/BoiketloThabang)
+GitHub: [https://github.com/BoiketloTLorekang](https://github.com/BoiketloTLorekang)
